@@ -4,6 +4,7 @@
 
 Please create the layout below.
 Maybe use [CodePen](https://codepen.io) or whatever else you prefer.
+Make sure you can share it and make it easy for the owner to verify.
 Pay attention to the semantic HTML elements to use.
 
 ### Layout 1
