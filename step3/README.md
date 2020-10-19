@@ -17,7 +17,7 @@ Use only the below HTML for this switch component and write CSS to make it look 
 
 Design
 
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/swtich.png" width="277px" alt="The switch design enabled and disabled">
+<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/switch.png" width="277px" alt="The switch design enabled and disabled">
 
 ### CSS-only Stop watch
 
