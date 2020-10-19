@@ -26,6 +26,12 @@ Let's re-create the following shapes with the above rules:
 
 ### CSS background pattern
 
+Rules:
+- Just one div
+- Give it a fixed width and height
+- No background images
+- Any CSS is allowed but likely not necessary
+
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/gradient.png" alt="Gradient">
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/gradient-border.png" alt="Gradient border">
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/grid.png" alt="A grid">
