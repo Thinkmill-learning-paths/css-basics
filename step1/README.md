@@ -9,6 +9,9 @@ Pay attention to the semantic HTML elements to use.
 
 ### Layout 1
 
+The `Box` elements can just be empty divs with a background color as placeholders.
+Note the fixed width of the Sidebar and the flex width of the Main container.
+
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
 │┌───────────────────────────────────────────────────────┐│                │┌─────────────────┐│
@@ -37,6 +40,8 @@ Pay attention to the semantic HTML elements to use.
 ```
 
 ### Layout 2
+
+Note the re-flowing in mobile.
 
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
@@ -67,6 +72,9 @@ Pay attention to the semantic HTML elements to use.
 
 ### Layout 3
 
+A sticky footer means even if there is not enough content in the Main container the footer is sticky to the bottom of the screen.
+When there is a lot of content in the Main container then the footer is pushed down with it.
+
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
 │┌───────────────────────────────────────────────────────┐│                │┌─────────────────┐│
@@ -89,7 +97,7 @@ Pay attention to the semantic HTML elements to use.
 ││        │ │                                  ││        ││                ││      Right      ││
 │└────────┘ └──────────────────────────────────┘└────────┘│                │└─────────────────┘│
 │┌───────────────────────────────────────────────────────┐│                │┌─────────────────┐│
-││                     Fixed Footer                      ││                ││  Fixed Footer   ││
+││                     Sticky Footer                     ││                ││  Sticky Footer  ││
 │└───────────────────────────────────────────────────────┘│                │└─────────────────┘│
 └─────────────────────────────────────────────────────────┘                └───────────────────┘
 ```

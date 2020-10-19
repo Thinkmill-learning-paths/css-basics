@@ -9,6 +9,7 @@ This is sometimes useful but always a good practice to know CSS well.
 ### Pure CSS icons
 
 Rules:
+
 - Use a single div
 - Use only CSS
 - Do not use symbols in `content` to get the shape
@@ -28,6 +29,7 @@ Let's re-create the following shapes with the above rules:
 ### CSS background pattern
 
 Rules:
+
 - Just one div
 - Give it a fixed width and height
 - No background images
