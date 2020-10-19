@@ -3,6 +3,7 @@
 ## Step 2 - Shapes
 
 Let's use CSS to create some shapes.
+Maybe use [CodePen](https://codepen.io) or whatever else you prefer.
 This is sometimes useful but always a good practice to know CSS well.
 
 ### Pure CSS icons
