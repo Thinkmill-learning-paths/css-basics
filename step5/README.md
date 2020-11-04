@@ -10,6 +10,8 @@ Given the below HTML and CSS, move the `One` div into the background, but:
 - Do not add/change the `z-index` property of any element
 - Do not add/change the `position` property of any element
 
+<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/stacking-context.png" width="649px" alt="Showing that the first box needs to move into the background">
+
 ```html
 <div><div class="one">One</div></div>
 <div><div class="two">Two</div></div>
