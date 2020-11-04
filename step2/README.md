@@ -18,7 +18,7 @@ Let's re-create the following shapes with the above rules:
 
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/caret.png" width="44px" alt="A caret">
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/bubbel.png" width="44px" alt="A chat bubble">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/star.png" width="44px" alt="A start">
+<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/star.png" width="44px" alt="A star">
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/heart.png" width="44px" alt="A heart">
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/mglas.png" width="44px" alt="A magnifying glass">
 <img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/infinity.png" width="44px" alt="An infitiny symbol">

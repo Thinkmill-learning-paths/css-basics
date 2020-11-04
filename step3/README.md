@@ -31,11 +31,11 @@ Rules:
 - There should be a `Continue` button
 - There should be a `Reset` button
 
-### SPA
+### SPA routing
 
 Rules:
 
-- Create an SPA that will only show a single section at a time
+- Create a page that will only show a single section at a time
 - The app should have three pages: `Home`, `About` and `Contact`
 - On top of each page there should be a navigation that allows the visitor to navigate between each page
 - The Home section should be visible by default
