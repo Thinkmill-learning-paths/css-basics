@@ -3,8 +3,8 @@
 ## Step 2 - Shapes
 
 Let's use CSS to create some shapes.
-Maybe use [CodePen](https://codepen.io) or whatever else you prefer.
-This is sometimes useful but always a good practice to know CSS well.
+
+Shapes can be made in other ways, for example using React, but it is sometimes useful to know of a CSS solution as well. 
 
 ### Pure CSS icons
 
@@ -14,17 +14,17 @@ Rules:
 - Use only CSS
 - Do not use symbols in `content` to get the shape
 
-Let's re-create the following shapes with the above rules:
+Re-create the following shapes with the above rules:
 
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/caret.png" width="44px" alt="A caret">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/bubbel.png" width="44px" alt="A chat bubble">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/star.png" width="44px" alt="A star">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/heart.png" width="44px" alt="A heart">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/mglas.png" width="44px" alt="A magnifying glass">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/infinity.png" width="44px" alt="An infitiny symbol">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/lock.png" width="44px" alt="a lock">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/cogwheel.png" width="44px" alt="A cogwheel">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/yinyang.png" width="44px" alt="The yin yang symbol">
+<img src="/assets/caret.png" width="44px" alt="A caret">
+<img src="/assets/bubble.png" width="44px" alt="A chat bubble">
+<img src="/assets/star.png" width="44px" alt="A star">
+<img src="/assets/heart.png" width="44px" alt="A heart">
+<img src="/assets/mglas.png" width="44px" alt="A magnifying glass">
+<img src="/assets/infinity.png" width="44px" alt="An infinity symbol">
+<img src="/assets/lock.png" width="44px" alt="a lock">
+<img src="/assets/cogwheel.png" width="44px" alt="A cogwheel">
+<img src="/assets/yinyang.png" width="44px" alt="The yin yang symbol">
 
 ### CSS background pattern
 
@@ -33,9 +33,9 @@ Rules:
 - Just one div
 - Give it a fixed width and height
 - No background images
-- Any CSS is allowed but likely not necessary
+- Any CSS is allowed but likely not necessary (?? what does this mean?)
 
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/gradient.png" alt="Gradient">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/gradient-border.png" alt="Gradient border">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/grid.png" alt="A grid">
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/space-invaders.png" alt="Space invaders">
+<img src="/assets/gradient.png" alt="Gradient">
+<img src="/assets/gradient-border.png" alt="Gradient border">
+<img src="/assets/grid.png" alt="A grid">
+<img src="/assets/space-invaders.png" alt="Space invaders">
