@@ -4,7 +4,7 @@
 
 Let's use CSS to create some shapes.
 
-Shapes can be made in other ways, for example using React, but it is sometimes useful to know of a CSS solution as well. 
+Shapes can be made in other ways, for example using SVG, but it is sometimes useful to know of a CSS solution as well. 
 
 ### Pure CSS icons
 
