@@ -4,13 +4,15 @@
 
 ## Create new context
 
-Given the below HTML and CSS, move the `One` div into the background, but:
+Given the below HTML and CSS, move the "One" div into the background to re-create the following: 
+
+<img src="/assets/stacking-context.png" width="649px" alt="Showing that the first box needs to move into the background">
+
+Rules: 
 
 - Do not alter the HTML markup in any way
 - Do not add/change the `z-index` property of any element
 - Do not add/change the `position` property of any element
-
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/stacking-context.png" width="649px" alt="Showing that the first box needs to move into the background">
 
 ```html
 <div><div class="one">One</div></div>
@@ -45,9 +47,12 @@ Given the below HTML and CSS, move the `One` div into the background, but:
 
 ## Logo scroll
 
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/logo-scroll.gif" width="318px" alt="An animation showing how the scroll behaves">
+<img src="/assets/logo-scroll.gif" width="318px" alt="An animation showing how the scroll behaves">
 
-Use the below HTML and re-create the scroll shown above. Do not use JavaScript.
+Use the below HTML and re-create the scroll shown above. 
+
+Rules: 
+* Do not use JavaScript.
 
 ```html
 <header></header>
