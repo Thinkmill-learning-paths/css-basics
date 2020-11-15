@@ -3,7 +3,7 @@
 Create the following using [CodePen](https://codepen.io) or another development environment you prefer. Make sure your example can be shared, to make it easy for the owner to verify.
 
 Tips: 
-* Pay attention to the semantic HTML elements to use.
+* Pay attention to the semantic HTML elements you use.
 
 ## Step 1 - Layout
 
