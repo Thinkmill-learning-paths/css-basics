@@ -8,9 +8,11 @@ Use the HTML below to re-create the following dark-mode compatible card componen
 
 <img src="/assets/card-theme.gif" width="374px" alt="An animation showing what the task result should look like">
 
-Rules: 
-* When the card is wrapped by a `.light` or `.dark` section it changes the styling from light to dark mode. There should be no `.dark .card` or `.light .card` styles specified. 
-* Use css variables to provide the switch from light-mode to dark-mode.
+Rules:
+
+- When the card is wrapped by a `.light` or `.dark` section it changes the styling from light to dark mode.
+  There should be no `.dark .card` or `.light .card` styles specified.
+- Use css variables to enable the switch from light-mode to dark-mode.
 
 ```html
 <section class="light">
