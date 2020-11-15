@@ -4,10 +4,15 @@
 
 ### Dark mode
 
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/card-theme.gif" width="374px" alt="An animation showing what the task result should look like">
+Use the HTML below to re-create the following dark-mode compatible card component.
 
-Use the HTML below to create a card component that can be placed in a `.light` or `.dark` section and will magically change from light to dark mode.
-There should be no `.dark .card` or `.light .card` styles specified. Use css variables.
+<img src="/assets/card-theme.gif" width="374px" alt="An animation showing what the task result should look like">
+
+Rules:
+
+- When the card is wrapped by a `.light` or `.dark` section it changes the styling from light to dark mode.
+  There should be no `.dark .card` or `.light .card` styles specified.
+- Use css variables to enable the switch from light-mode to dark-mode.
 
 ```html
 <section class="light">
@@ -47,7 +52,7 @@ There should be no `.dark .card` or `.light .card` styles specified. Use css var
 </section>
 ```
 
-For the colors use the below specified set for each section respectively.
+For colors, use the below specified set for each section respectively:
 
 Light
 
