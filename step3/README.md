@@ -4,7 +4,7 @@
 
 ### Switch
 
-Use only the below HTML for this switch component and write CSS to make it look like the image.
+Style the following HTML to make it look like the image below: 
 
 ```html
 <label>
@@ -15,9 +15,7 @@ Use only the below HTML for this switch component and write CSS to make it look 
 </label>
 ```
 
-Design
-
-<img src="https://github.com/Thinkmill-learning-paths/css-basics/blob/main/assets/switch.png" width="277px" alt="The switch design enabled and disabled">
+<img src="/assets/switch.png" width="277px" alt="The switch design enabled and disabled">
 
 ### CSS-only Stop watch
 
@@ -26,7 +24,7 @@ Rules:
 - Create a CSS-only stop watch.
 - You can shape your own HTML.
 - No javaScript allowed.
-- There should be a display of time that shows `hour`, `minute` and `seconds`.
+- There should be a display of time showing `hour`, `minute` and `seconds`.
 - There should be a `Stop` button
 - There should be a `Continue` button
 - There should be a `Reset` button
