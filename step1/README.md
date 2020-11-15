@@ -1,15 +1,15 @@
 # CSS basics
 
-Create the following using [CodePen](https://codepen.io) or another development environment you prefer. Make sure your example can be shared, to make it easy for the owner to verify.
+Create the below layouts using [CodePen](https://codepen.io) or another development environment you prefer.
+Make sure your example can be shared, to make it possible for the owner to verify.
 
-Tips: 
-* Pay attention to the semantic HTML elements you use.
+> 💡 Pay attention to semantic HTML
 
 ## Step 1 - Layout
 
 ### Layout 1
 
-Create this responsive layout using CSS: 
+Create this responsive layout using CSS and HTML
 
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
@@ -38,13 +38,14 @@ Create this responsive layout using CSS:
 └─────────────────────────────────────────────────────────┘                └───────────────────┘
 ```
 
-Tips: 
-* "Box" items can be empty divs with a background color as placeholders.
-* Note the fixed width of the Sidebar and the flex width of the Main container.
+Tips:
+
+- `Box` items can be empty divs with a background color as placeholders.
+- Note the fixed width of the Sidebar.
 
 ### Layout 2
 
-Duplicate Layout 1, and add a Sidebar Right: 
+Duplicate Layout 1, and add a fix width Sidebar Right
 
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
@@ -73,12 +74,13 @@ Duplicate Layout 1, and add a Sidebar Right:
 └─────────────────────────────────────────────────────────┘                └───────────────────┘
 ```
 
-Tips: 
-* Note, the re-flowing in mobile.
+Tips:
+
+- Note, the re-flowing in mobile.
 
 ### Layout 3
 
-Duplicate Layout 1, and add a Sticky Footer: 
+Duplicate Layout 2, and add a Sticky Footer:
 
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
@@ -107,5 +109,7 @@ Duplicate Layout 1, and add a Sticky Footer:
 └─────────────────────────────────────────────────────────┘                └───────────────────┘
 ```
 
-Tips: 
-* A sticky footer means even if there is not enough content in the Main container the footer is sticky to the bottom of the screen. When there is a lot of content in the Main container then the footer is pushed down with it.
+Tips:
+
+- A sticky footer means even if there is not enough content in the Main container the footer is sticky to the bottom of the screen.
+  When there is a lot of content in the Main container then the footer is pushed down with it.
