@@ -4,7 +4,7 @@
 
 ### Switch
 
-Style the following HTML to make it look like the image below: 
+Style the following HTML to make it look like the image below:
 
 ```html
 <label>
