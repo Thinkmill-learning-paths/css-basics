@@ -1,16 +1,15 @@
 # CSS basics
 
-## Step 1 - Layout
+Create the below layouts using [CodePen](https://codepen.io) or another development environment you prefer.
+Make sure your example can be shared, to make it possible for the owner to verify.
 
-Please create the layout below.
-Maybe use [CodePen](https://codepen.io) or whatever else you prefer.
-Make sure you can share it and make it easy for the owner to verify.
-Pay attention to the semantic HTML elements to use.
+> 💡 Pay attention to semantic HTML
+
+## Step 1 - Layout
 
 ### Layout 1
 
-The `Box` elements can just be empty divs with a background color as placeholders.
-Note the fixed width of the Sidebar and the flex width of the Main container.
+Create this responsive layout using CSS and HTML
 
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
@@ -39,9 +38,14 @@ Note the fixed width of the Sidebar and the flex width of the Main container.
 └─────────────────────────────────────────────────────────┘                └───────────────────┘
 ```
 
+Tips:
+
+- `Box` items can be empty divs with a background color as placeholders.
+- Note the fixed width of the Sidebar.
+
 ### Layout 2
 
-Note the re-flowing in mobile.
+Duplicate Layout 1, and add a fix width Sidebar Right
 
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
@@ -70,10 +74,13 @@ Note the re-flowing in mobile.
 └─────────────────────────────────────────────────────────┘                └───────────────────┘
 ```
 
+Tips:
+
+- Note, the re-flowing in mobile.
+
 ### Layout 3
 
-A sticky footer means even if there is not enough content in the Main container the footer is sticky to the bottom of the screen.
-When there is a lot of content in the Main container then the footer is pushed down with it.
+Duplicate Layout 2, and add a Sticky Footer:
 
 ```
 ┌─────────────────────────────────────────────────────────┐                ┌───────────────────┐
@@ -101,3 +108,8 @@ When there is a lot of content in the Main container then the footer is pushed d
 │└───────────────────────────────────────────────────────┘│                │└─────────────────┘│
 └─────────────────────────────────────────────────────────┘                └───────────────────┘
 ```
+
+Tips:
+
+- A sticky footer means even if there is not enough content in the Main container the footer is sticky to the bottom of the screen.
+  When there is a lot of content in the Main container then the footer is pushed down with it.
